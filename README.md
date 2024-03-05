@@ -24,7 +24,7 @@
 <br />
 
 ## Contact Me:
-Telegram: <a href="https://t.me/azyk9110">@azyk0106</a> <br />
+Telegram: <a href="https://t.me/azyk0106">@azyk0106</a> <br />
 Linkedin: <a href="www.linkedin.com/in/azykdev">@azykdev</a> <br />
 
   
