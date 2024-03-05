@@ -1,4 +1,4 @@
-### Hi, I'm Azizbek Nayimov 🖐
+## Hi, I'm Azizbek Nayimov 🖐
 
 - 📍 &nbsp; Current location: Bukhara, Uzbekistan
 - 📝&nbsp; Ask me about anything, I am happy to help
@@ -11,7 +11,7 @@
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="30px" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="30px" /></code>
 <code><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vuex-store.png" width="30px" /></code>
-<code><img src="https://static-00.iconduck.com/assets.00/vuetify-icon-896x1024-0t98ujrv.png" width="30px" /></code>
+<code><img src="https://static-00.iconduck.com/assets.00/vuetify-icon-896x1024-0t98ujrv.png" width="28px" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="30px" /></code>
 
 ## Tools:
