@@ -24,8 +24,8 @@
 <br />
 
 ## Contact Me:
-Instagram: [@nayimov9110]('https://www.instagram.com/nayimov9110/')
-Telegram: [@azyk9110]('https://t.me/azyk9110')
-Facebook: [Azizbek Nayimov]('https://www.facebook.com/?ref=homescreenpwa')
+Instagram: <a href="https://www.instagram.com/nayimov9110/">@nayimov9110</a> <br />
+Telegram: <a href="https://t.me/azyk9110">@azyk9110</a> <br />
+Facebook: <a href="https://www.facebook.com/?ref=homescreenpwa">Azizbek Nayimov</a> <br />
 
   
