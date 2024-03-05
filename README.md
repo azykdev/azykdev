@@ -18,7 +18,7 @@
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="35" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-stackoverflow-4555866_121359.png" width="35" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="35" /></code>
-<code><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/github_logo_icon_145252.png" width="35" /></code>
+<code><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="35" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" width="35" /></code>
 
 <br />
