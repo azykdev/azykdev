@@ -23,7 +23,7 @@
 
 <br />
 
-## Contact Me:
+### Contact:
 Telegram: <a href="https://t.me/azyk0106">@azyk0106</a> <br />
 Linkedin: <a href="www.linkedin.com/in/azykdev">@azykdev</a> <br />
 
