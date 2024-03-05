@@ -4,11 +4,11 @@
 - 📝&nbsp; Ask me about anything, I am happy to help
 
 ## Skills:
-<code><img src="https://cdn.icon-icons.com/icons2/1298/PNG/512/2333390-html-html5-internet-website_85590.png" width="30px" /></code>
-<code><img src="https://cdn.icon-icons.com/icons2/512/PNG/512/css3-02_icon-icons.com_50917.png" width="30px" /></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="30px" /></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="30px" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/3206/PNG/512/bootstrap_icon_195906.png" width="30px" /></code>
-<code><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/sass_alt_logo_icon_144910.png" width="30px" /></code>
-<code><img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_js_icon_158838.png" width="30px" /></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" width="30px" /></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="30px" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="30px" /></code>
 <code><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vuex-store.png" width="30px" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/vuetify_icon_135035.png" width="30px" /></code>
