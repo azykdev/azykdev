@@ -24,7 +24,7 @@
 <br />
 
 ### Contact:
-Telegram: <a href="https://t.me/azyk0106">@azyk0106</a> <br />
+Telegram: <a href="https://t.me/azykdev">@azykdev</a> <br />
 Linkedin: <a href="www.linkedin.com/in/azykdev">@azykdev</a> <br />
 Facebook: <a href="https://www.facebook.com/azykdeveloper">@azykdeveloper</a> <br />
 Instagram: <a href="https://www.instagram.com/azykdeveloper/">@azykdeveloper</a> <br />
