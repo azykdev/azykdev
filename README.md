@@ -23,7 +23,7 @@
 
 <br />
 
-### Contact:
+### Social Medias:
 Telegram: <a href="https://t.me/azykdev">@azykdev</a> <br />
 Linkedin: <a href="www.linkedin.com/in/azykdev">@azykdev</a> <br />
 Facebook: <a href="https://www.facebook.com/azykdeveloper">@azykdeveloper</a> <br />
