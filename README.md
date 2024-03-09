@@ -13,6 +13,7 @@
 <code><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vuex-store.png" width="30px" /></code>
 <code><img src="https://static-00.iconduck.com/assets.00/vuetify-icon-896x1024-0t98ujrv.png" width="25px" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="30px" /></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="30px" /></code>
 
 ### Tools:
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="35" /></code>
