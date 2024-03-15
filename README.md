@@ -21,6 +21,7 @@
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="35" /></code>
 <code><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="35" style="border-radius: 50%;" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" width="35" /></code>
+<code><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="35" /></code>
 
 <br />
 
