@@ -20,7 +20,7 @@
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-stackoverflow-4555866_121359.png" width="40" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="40" /></code>
-<code><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" /></code>
+<code><img src="https://www.svgrepo.com/show/360451/github-circle.svg" width="40" style="background-color: #fff;" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" width="40" /></code>
 <code><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" /></code>
 
