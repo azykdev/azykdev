@@ -1,4 +1,4 @@
-### Hi, I'm Azizbek Nayimov 🖐 <iframe src="https://giphy.com/embed/cn2FbrsObi93jZYPEL" width="280" height="170" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-emoji-emojivid-cn2FbrsObi93jZYPEL">via GIPHY</a></p>
+### Hi, I'm Azizbek Nayimov 🖐 <img src="https://giphy.com/embed/cn2FbrsObi93jZYPEL" />
 
 - 📍 &nbsp; Current location: Bukhara, Uzbekistan
 - 📝&nbsp; Ask me about anything, I am happy to help
