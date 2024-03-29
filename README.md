@@ -1,5 +1,5 @@
-### Hi, I'm Azizbek Nayimov <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJldHBmNmd6MWx5NzBkcjZ2NmwzMTdtZTRwb2V2aTFiOHp2cWk4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cn2FbrsObi93jZYPEL/giphy.gif" width="70" />
-
+### Hi <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJldHBmNmd6MWx5NzBkcjZ2NmwzMTdtZTRwb2V2aTFiOHp2cWk4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cn2FbrsObi93jZYPEL/giphy.gif" width="70" />
+, I'm Azizbek Nayimov 
 - 📍 &nbsp; Current location: Bukhara, Uzbekistan
 - 📝&nbsp; Ask me about anything, I am happy to help
 
