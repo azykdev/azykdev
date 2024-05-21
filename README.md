@@ -15,7 +15,7 @@
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="40px" /></code>
 <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="40px" /></code>
 <code><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40px" /></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" width="40px" /></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" width="35px" /></code>
 
 ### Tools:
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" /></code>
