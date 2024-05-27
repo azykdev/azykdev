@@ -15,6 +15,7 @@
 <code><img title="Tailwind" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="40px" /></code>
 <code><img title="Pinia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" width="30px" /></code>
 <code><img title="PrimeVue" src="https://camo.githubusercontent.com/8852a14ea4f4d5b6c2e220fa46c81ab56c443f4139925b0f07c15fc0644eb868/68747470733a2f2f7777772e7072696d6566616365732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31322f7072696d657675652d6c6f676f2e706e67" width="40px" /></code>
+<code><img title="PrimeFlex" src="https://pbs.twimg.com/profile_images/1662024981302132740/Y0uz-3YC_400x400.jpg" width="40px" /></code>
 <code><img title="React" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="40px" /></code>
 <code><img title="Redux" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40px" /></code>
 
